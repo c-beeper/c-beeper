@@ -62,3 +62,13 @@ Here are some ideas to get you started:
 [どんな痛みにも笑っていろ](https://en.touhouwiki.net/wiki/Lyrics:_Uprising_Ideology)
 
 I set this page because of the requirement of CSCI3251... So never mind these.
+
+### Simplified Chinese && Credits:
+
+哎哟我都写了个什么啊我要笑死了
+
+icon by kaze
+
+head_1 by 水母糖
+
+head_2 by Munchem-慕尼

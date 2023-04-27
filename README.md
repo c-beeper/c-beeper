@@ -63,6 +63,8 @@ Here are some ideas to get you started:
 
 I set this page because of the requirement of CSCI3251... So never mind these.
 
+----------------------------------------
+
 ### Simplified Chinese && Credits:
 
 哎哟我都写了个什么啊我要笑死了
